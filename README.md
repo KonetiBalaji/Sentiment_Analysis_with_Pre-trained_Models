@@ -35,8 +35,8 @@ Source: [https://ai.stanford.edu/~amaas/data/sentiment/](https://ai.stanford.edu
 ## How to Run
 
 ### 1. Clone the Repository
-
 ```bash
+https://github.com/KonetiBalaji/Sentiment_Analysis_with_Pre-trained_Models.git
 
 ### 2. Download the IMDb Dataset
 Download and extract the dataset into the root directory: https://ai.stanford.edu/~amaas/data/sentiment/
