@@ -57,6 +57,9 @@ imdb-sentiment-analysis/
 ├── LICENSE                        # MIT License
 └── README.md                      # Project documentation
 
+### 6. Check the accuracy score from here:
+https://konetibalaji-sentiment-analy-sentiment-analysis-pipeline-kliv42.streamlit.app/
+
 ---
 
 ## Future Scope
