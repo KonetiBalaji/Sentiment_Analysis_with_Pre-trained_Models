@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 4. Launch the Streamlit App
 streamlit run sentiment_analysis_pipeline.py
 
----
+--
 
 ### 5. File Structure
 imdb-sentiment-analysis/
