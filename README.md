@@ -46,6 +46,8 @@ pip install -r requirements.txt
 ### 4. Launch the Streamlit App
 streamlit run sentiment_analysis_pipeline.py
 
+---
+
 ### 5. File Structure
 imdb-sentiment-analysis/
 │
@@ -57,7 +59,7 @@ imdb-sentiment-analysis/
 
 ---
 
-Future Scope
+## Future Scope
 Extend to multi-class emotion classification (e.g., joy, anger, sadness)
 Add model fine-tuning on domain-specific data
 Deploy the app to Streamlit Cloud or Hugging Face Spaces
