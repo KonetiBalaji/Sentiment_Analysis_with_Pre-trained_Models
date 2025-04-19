@@ -35,8 +35,7 @@ Source: [https://ai.stanford.edu/~amaas/data/sentiment/](https://ai.stanford.edu
 ## How to Run
 
 ### 1. Clone the Repository
-```bash
-https://github.com/KonetiBalaji/Sentiment_Analysis_with_Pre-trained_Models.git
+clone it: https://github.com/KonetiBalaji/Sentiment_Analysis_with_Pre-trained_Models.git
 
 ### 2. Download the IMDb Dataset
 Download and extract the dataset into the root directory: https://ai.stanford.edu/~amaas/data/sentiment/
@@ -56,7 +55,9 @@ imdb-sentiment-analysis/
 ├── LICENSE                        # MIT License
 └── README.md                      # Project documentation
 
-## Future Scope
+---
+
+Future Scope
 Extend to multi-class emotion classification (e.g., joy, anger, sadness)
 Add model fine-tuning on domain-specific data
 Deploy the app to Streamlit Cloud or Hugging Face Spaces
